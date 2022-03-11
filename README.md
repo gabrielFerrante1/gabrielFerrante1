@@ -29,5 +29,5 @@
 
 <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabrielFerrante1&theme=tokyonight&show_icons=true" style"width: 100%;"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meu_portifolio&theme=tokyonight&layout=compact" style"width: 100%;" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platform_ead&theme=tokyonight&layout=compact" style"width: 100%;" />
 </p>
