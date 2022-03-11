@@ -26,5 +26,5 @@
 
 <h1 align="center">Dados do GitHub</h1>
 
-<p  align="center"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabrielFerrante1&theme=tokyonight&show_icons=true" style"max-width: 100%;"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meu_portifolio&theme=tokyonight&layout=compact" style"max-width: 100%;" /></p>
+<p  align="center"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabrielFerrante1&theme=tokyonight&show_icons=true" style"max-width: 50%;"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meu_portifolio&theme=tokyonight&layout=compact" style"max-width: 50%;" /></p>
