@@ -29,5 +29,5 @@
 
 <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabrielFerrante1&theme=tokyonight&show_icons=true" style"width: 100%;"/> <br />
-    <img height="270em" src="https://metrics.lecoq.io/gabrielFerrante1?theme=tokyonight" alt="Github Metrics" style"max-width: 100%>
+    <img height="270em" src="https://metrics.lecoq.io/gabrielFerrante1?theme=tokyonight" alt="Github Metrics">
 </p>
