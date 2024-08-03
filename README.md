@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    Olá meu nome é Gabriel Ferrante. Comecei no mundo da progamação aos 15 anos e atualmente estudo sobre: React.js, React Native, Next.js, Node.js, PHP e outras tecnologias!
+    Olá meu nome é Gabriel Ferrante. Comecei no mundo da progamação aos 15 anos e atualmente estudo sobre: TypeScript, React.js, React Native, Next.js, Node.js e outras tecnologias!
 </p>
 
 <p>
